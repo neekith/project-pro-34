@@ -20,7 +20,7 @@ class Rope {
 
       //set the value of stroke to hide the rope
       stroke(48, 22, 8);
-      strokeWeight(0);
+      //strokeWeight();
 
       line(pointB.x, pointB.y, pointA.x, pointA.y);
 
